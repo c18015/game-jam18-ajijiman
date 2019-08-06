@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - DestroyArea
+  - Pizza
+  - Dango
+  - Nikuman
+  - Hazure
+  - Dragon_Head
+  - EnemyBullet
+  - PlayerBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DestroyArea
+  - Enemy
+  - EnemyBullet
+  - Player
+  - PlayerBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 798544363
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3027371437
+    locked: 0
+  - name: DangerArea
+    uniqueID: 2229106333
+    locked: 0
+  - name: EnemyBullet
+    uniqueID: 3384663867
+    locked: 0
+  - name: PlayerBullet
+    uniqueID: 1768639223
+    locked: 0
+  - name: Player
+    uniqueID: 3278558711
+    locked: 0
+  - name: UI
+    uniqueID: 1597693297
+    locked: 0
